@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98c30ff4bfb06d2499137880d8842459
+timeCreated: 1512508939
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brixton TC
+  fontNames:
+  - Brixton TC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
